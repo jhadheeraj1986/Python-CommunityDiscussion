@@ -13,6 +13,6 @@ Currently, we are going through the Python basics. So it's beneficial if you wan
 It is a place to show up your skills as there is no judge. If you have any issue, you can discuss in the forum. You can collaborate with others for any project you want to work.
 
 I welcome everyone to join our community.
-"Let's Python learn together".
+"Let's learn Python together".
 
 To join this community Register here: https://forms.gle/2ppaSsRTKnviThrv5
