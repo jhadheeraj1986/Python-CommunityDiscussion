@@ -19,4 +19,5 @@ To join this community Register here: https://forms.gle/2ppaSsRTKnviThrv5
 
 
 Subscribe to our YouTube Channel: [LetsLearnTogether](https://www.youtube.com/channel/UCBIypTJTZ_BOEoUKMAq_8MQ)
-Playlist for recorded sessions: https://www.youtube.com/watch?v=IOztWE0bP_U&list=PLrTFG4ekktfRJi9SP4XD-A8cQSukE8DaX
+
+Playlist for recorded sessions: [Python Community Discussion](https://www.youtube.com/watch?v=IOztWE0bP_U&list=PLrTFG4ekktfRJi9SP4XD-A8cQSukE8DaX)
