@@ -1,0 +1,39 @@
+#import ModulesCodingBasics 
+
+#ModulesCodingBasics.printer1("Namaste world")
+#ModulesCodingBasics.printer2("Namaste world")
+
+#***********************************************************
+
+#from ModulesCodingBasics import printer1
+
+#ModulesCodingBasics.printer1("Namaste world")
+#ModulesCodingBasics.printer2("Namaste world")
+
+#printer1("Namaste world")
+#printer2("Namaste world")
+
+#***********************************************************
+
+#from ModulesCodingBasics import *
+
+#ModulesCodingBasics.printer1("Namaste world")
+#ModulesCodingBasics.printer2("Namaste world")
+
+#printer1("Namaste world")
+#printer2("Namaste world")
+
+#***********************************************************
+
+#import ModulesCodingBasics 
+#print(ModulesCodingBasics.testAttr)
+#ModulesCodingBasics.testAttr = 'My value is changed here. import again will not change my value'
+
+
+#import ModulesCodingBasics 
+#print(ModulesCodingBasics.testAttr)
+
+#***********************************************************
+
+
+
